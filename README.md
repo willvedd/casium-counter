@@ -6,7 +6,7 @@ A basic counter application based on [Casium](https://github.com/ai-labs-team/ca
 
 To get started use the following snippet to install dependencies and compile/bundle the codebase.
 
-```
+```bash
 npm install
 webpack
 ```
