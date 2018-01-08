@@ -1,0 +1,33 @@
+{
+  "name": "casium-counter",
+  "version": "1.0.0",
+  "description": "Basic example Casium application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "advisor innovation labs",
+    "ai labs",
+    "casium",
+    "casiumjs"
+  ],
+  "author": "Williamson Vedder",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^7.1.2"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "casium": "^1.0.11",
+    "deep-freeze-strict": "^1.1.1",
+    "history": "^4.7.2",
+    "js-cookie": "^2.2.0",
+    "ramda": "^0.25.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
